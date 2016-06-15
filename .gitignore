@@ -1,0 +1,7 @@
+# .gitignore:  ignoruje se
+#
+#object files
+*.[oa]
+#backup files
+*~
+
