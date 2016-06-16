@@ -7,3 +7,5 @@ Prvni zkusebni projekt pro git
 pridal jsem tento radek
 
 pridal jsem jeste jeden radek
+
+a ted jsem pridal dalsi radek
